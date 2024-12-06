@@ -1,11 +1,11 @@
-
+@charset "UTF-8";
 h1{
     border: 5px dashed red;
     padding: 30px;
     margin: 30px 0px ;
     text-align: center;
 }
-span{
+.destaque{
     color: red;
     font-weight: bolder;
 }
