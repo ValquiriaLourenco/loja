@@ -17,3 +17,6 @@ footer{
 .foo{
     color: white;
 }
+#tab{
+    overflow-x: auto;
+}
